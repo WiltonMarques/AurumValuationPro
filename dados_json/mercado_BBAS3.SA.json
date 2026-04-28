@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "ticker": "BBAS3.SA",
+        "data_extracao": "2026-04-27T15:41:51.576866",
+        "fontes": [
+            "yfinance",
+            "brapi.dev"
+        ]
+    },
+    "dados_fundamentais": {
+        "preco_atual": 22.65,
+        "setor": "Financial Services",
+        "segmento": "Banks - Regional",
+        "trailingPE": 9.437499,
+        "dividendYield": 1.24,
+        "returnOnEquity": 0.1106,
+        "freeCashflow": null,
+        "operatingCashflow": 127173378048,
+        "netIncome": null,
+        "totalDebt": 1034449518592,
+        "totalCash": 62611296256,
+        "sharesOutstanding": 5708378210,
+        "marketCap": 129294761984
+    }
+}

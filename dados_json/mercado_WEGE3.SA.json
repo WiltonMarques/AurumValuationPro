@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "ticker": "WEGE3.SA",
+        "data_extracao": "2026-04-27T15:40:09.371277",
+        "fontes": [
+            "yfinance",
+            "brapi.dev"
+        ]
+    },
+    "dados_fundamentais": {
+        "preco_atual": 48.13,
+        "setor": "Industrials",
+        "segmento": "Electrical Equipment & Parts",
+        "trailingPE": 31.664474,
+        "dividendYield": null,
+        "returnOnEquity": 0.32514998,
+        "freeCashflow": 3909349120,
+        "operatingCashflow": 6451033088,
+        "netIncome": null,
+        "totalDebt": 5437975040,
+        "totalCash": 7279864832,
+        "sharesOutstanding": 4195829691,
+        "marketCap": 201945284608
+    }
+}

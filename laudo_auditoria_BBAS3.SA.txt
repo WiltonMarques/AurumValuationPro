@@ -1,0 +1,17 @@
+===========================================================
+LAUDO TÉCNICO DE VALUATION - NEXUS VALUATION AI
+===========================================================
+EMISSÃO: 27/04/2026 15:41:51
+ATIVO: BBAS3.SA
+PREÇO JUSTO: R$ 737.26
+-----------------------------------------------------------
+GOVERNANÇA E RISCO:
+- Limite Prudencial de Drawdown: 45.0%
+- Normas de Referência: CPC 46, IFRS 13, Marco Legal da IA (PL 2338/23)
+-----------------------------------------------------------
+ISENÇÃO DE RESPONSABILIDADE FINANCEIRA:
+Este documento é um artefato de processamento de dados e 
+análise semântica. Não representa oferta de valores 
+mobiliários ou recomendação de investimento. Resultados 
+passados não garantem retornos futuros.
+===========================================================

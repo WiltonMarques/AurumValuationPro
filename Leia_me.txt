@@ -1,0 +1,11 @@
+Resumo dos Arquivos:
+01_ingestao_dados.py
+02_motor_ia_valuation.py
+03_motor_dcf.py
+04_gerador_governanca.py
+app_main.py (streamlit run app_main.py)
+
+
+Esta estrutura garante que você possa argumentar com qualquer profissional 
+de alto nível sobre a segurança e rastreabilidade do seu código, uma vez 
+que cada etapa gera um rastro (JSON) auditável.

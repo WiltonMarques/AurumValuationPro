@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "ticker": "PETR4.SA",
+        "data_extracao": "2026-04-27T15:41:07.214776",
+        "fontes": [
+            "yfinance",
+            "brapi.dev"
+        ]
+    },
+    "dados_fundamentais": {
+        "preco_atual": 47.52,
+        "setor": "Energy",
+        "segmento": "Oil & Gas Integrated",
+        "trailingPE": 6.211765,
+        "dividendYield": null,
+        "returnOnEquity": 0.28176,
+        "freeCashflow": 85002125312,
+        "operatingCashflow": 200333000704,
+        "netIncome": null,
+        "totalDebt": 384025001984,
+        "totalCash": 50608001024,
+        "sharesOutstanding": 5446501379,
+        "marketCap": 649288876032
+    }
+}

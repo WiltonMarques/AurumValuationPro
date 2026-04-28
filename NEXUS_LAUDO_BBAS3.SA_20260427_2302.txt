@@ -1,0 +1,47 @@
+=============================================================
+NEXUS_OS - RELATÓRIO DE GOVERNANÇA E AUDITORIA V9.3
+=============================================================
+EMISSÃO: 2026-04-27 23:02:16 | ATIVO: BBAS3.SA | SETOR: Financial Services
+
+1. RESUMO QUANTITATIVO
+-------------------------------------------------------------
+COTAÇÃO MKT   : R$ 22.51
+PREÇO JUSTO   : R$ 83.21
+UPSIDE        : 269.66%
+
+[ MÚLTIPLOS E RENTABILIDADE ]
+P/L: 9.38x | P/VP: 0.70x | EV/EBITDA: 0.00x
+ROE: 11.06% | ROA: 0.86% | MARGEM LÍQ: 24.11%
+
+2. METODOLOGIA E MEMÓRIA DE CÁLCULO
+-------------------------------------------------------------
+MODELO: DDM (Gordon) | Premium: PADRÃO
+WACC : 10.50% | PERPETUIDADE (g): 3.50%
+QUALIDADE: PADRÃO
+
+[ STEP-BY-STEP MATEMÁTICO ]
+    > Dividendo Projetado (D1): R$ 5.82
+    > Custo de Capital (Ke): 10.50%
+    > Taxa de Crescimento (g): 3.50%
+    > Equação Matemática: D1 / (Ke - g)
+
+3. EVIDÊNCIAS REAIS (NOTAS EXPLICATIVAS / DFP)
+-------------------------------------------------------------
+-> PÁG 2 | Gatilho: NÃO RECORRENTE: "33 – Resultado recorrente e não recorrente .................................................................................................................................................................................... 142"
+-> PÁG 4 | Gatilho: PROVISÃO: "Provisão para perdas associadas ao risco de crédito (36.922.811) (65.649.161) (37.346.015) (66.387.625)"
+-> PÁG 5 | Gatilho: AJUSTE: "Ajustes de conversão de investimentos no exterior (770.559) (2.118.593) (960.883) (2.622.711)"
+
+4. PARECER DE RISCO
+-------------------------------------------------------------
+LIMITE DRAWDOWN TETO : 45.0%
+STATUS COMPLIANCE    : [APROVADO]
+
+=============================================================
+AVISO LEGAL E ISENÇÃO DE RESPONSABILIDADE (DISCLAIMER)
+Este relatório é um artefato quantitativo e semântico gerado 
+automaticamente via Inteligência Artificial (Nexus_OS). 
+Não constitui oferta de valores mobiliários ou recomendação 
+de investimento. Resultados passados não garantem retornos 
+futuros. A adequação ao perfil de risco é de responsabilidade 
+exclusiva do utilizador final.
+=============================================================

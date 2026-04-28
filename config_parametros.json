@@ -1,0 +1,20 @@
+{
+    "sistema": {
+        "diretorio_saida_json": "dados_json",
+        "nivel_log": "INFO"
+    },
+    "parametros_ingestao": {
+        "limite_paginas_pdf": 15,
+        "fonte_dados_mercado": "yahoo_finance"
+    },
+    "parametros_valuation": {
+        "taxa_crescimento_base_setorial": 0.12,
+        "wacc_padrao": 0.09,
+        "taxa_crescimento_perpetuidade": 0.05,
+        "anos_projecao_dcf": 10
+    },
+    "parametros_risco_governanca": {
+        "drawdown_maximo_aceitavel": 0.45,
+        "normas_auditoria": ["CPC 46", "IFRS 13", "Marco Legal da IA (PL 2338/23)"]
+    }
+}
